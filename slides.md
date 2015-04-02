@@ -49,18 +49,18 @@
 
 --SUBSLIDE--
 
-<h1>CODE</h1>
+<h1>... called <b>Code</b></h1>
 <img src="images/code_mag.jpg" style="max-height: 450px;">
 
 --SUBSLIDE--
 
-<h2>Not all</h2>
+<h2>Not all <b>code</b></h2>
 <img src="images/computer_language.jpg" style="max-height: 450px;">
-<h2>look <b>scary</b></h2>
+<h2>looks <b>scary</b></h2>
 
 --SUBSLIDE--
 
-<h2><b>Fun</b></h2>
+<h2>Code is <b>Fun</b></h2>
 <img src="images/blockly.png" style="max-height: 450px;">
 
 
