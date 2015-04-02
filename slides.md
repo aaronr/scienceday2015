@@ -74,11 +74,15 @@
 --SUBSLIDE--
 
 <h2><b>Input</b> and <b>Output</b></h2>
-<img src="images/xbox.png" style="max-height: 450px;">
+<img src="images/inout.gif" style="max-height: 450px;">
 
 --SUBSLIDE--
 
 <img src="images/input.png" style="max-height: 550px;">
+
+--SUBSLIDE--
+
+<img src="images/inout_example.png" style="max-height: 550px;">
 
 --SUBSLIDE--
 
@@ -91,12 +95,41 @@
 
 --SUBSLIDE--
 
+<img src="images/rocket.jpg" style="max-height: 550px;">
+
+--SUBSLIDE--
+
 <h2><b>Loops</b></h2>
 <img src="images/loop.jpg" style="max-height: 450px;">
 
 --SUBSLIDE--
 
 <img src="images/loop.png" style="max-height: 550px;">
+
+--SUBSLIDE--
+
+<img src="images/car.jpg" style="max-height: 550px;">
+
+<!------------------------------------------------------------>
+--SLIDE--
+<!-- Topic: Logic -->
+
+<h2><b>Critical Thinking</b></h2>
+<img src="images/logic.jpg" style="max-height: 450px;">
+
+--SUBSLIDE--
+
+<h2><b>Math</b></h2>
+<img src="images/math.jpg" style="max-height: 450px;">
+
+--SUBSLIDE--
+
+<h2><b>Logic</b></h2>
+<img src="images/venn.jpg" style="max-height: 450px;">
+
+--SUBSLIDE--
+
+<img src="images/venn_example.jpg" style="max-height: 550px;">
 
 <!------------------------------------------------------------>
 --SLIDE--
